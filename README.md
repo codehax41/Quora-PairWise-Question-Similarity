@@ -1,4 +1,6 @@
-TO Download Data :
+TO Download Dataset : 
+- Train : https://drive.google.com/open?id=1TplClhuc1f_cGnsGeMBHTjGtoyOnyapX
+- Test : https://drive.google.com/open?id=1RN6cuzRDrEsqmPFkoGQ5BkIahypYE0G6
 
 # Quora-PairWise-Question-Similarity
 
